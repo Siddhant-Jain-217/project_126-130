@@ -1,3 +1,4 @@
+$(document). bind("contextmenu",function(e){ return false; });
 song = "";
 leftWristX = 0;
 leftWristY = 0;
