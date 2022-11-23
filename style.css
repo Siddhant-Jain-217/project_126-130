@@ -11,6 +11,7 @@
 
 body {
  background-size: cover;
+ user-select: none;
 }
 
 .div_speed {
